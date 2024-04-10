@@ -1,0 +1,10 @@
+server:
+  port: 8088
+
+sns:
+  file:
+    storage:
+      file-count: 22
+      resize-factor: 0.878f
+      fix-arrange-time: "1_2_40_0"
+      base-path: "/usr/local/file_db/test0"

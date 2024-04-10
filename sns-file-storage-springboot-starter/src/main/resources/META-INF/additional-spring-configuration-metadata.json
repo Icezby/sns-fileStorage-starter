@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "sns.file.storage.fileCount": {
+      "type": "java.lang.Integer",
+      "defaultValue": 16
+    },
+    "sns.file.storage.basePath": {
+      "type": "java.lang.String",
+      "defaultValue": "/usr/local/file_db"
+    },
+    "sns.file.storage.resizeFactor": {
+      "type": "java.lang.Float",
+      "defaultValue": "0.8f"
+    },
+    "sns.file.storage.fixArrangeTime": {
+      "type": "java.lang.String",
+      "defaultValue": "1_3_0_0"
+    }
+  }
+}
